@@ -32,7 +32,7 @@ The Data Cleaner Application is a Python-based tool for loading, cleaning, split
 
 4. Run the application:
    ```bash
-   python main.py
+   python data_clean.py
    ```
 
 ## Usage
